@@ -1,8 +1,8 @@
 # PROJEKT-UVP
 
-# AVTOR
+## AVTOR
 
 * Anita Trobec
 
-# OPIS
+## OPIS
 Naredila bom projekt za UVP.
